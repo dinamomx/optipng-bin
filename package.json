@@ -9,8 +9,7 @@
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com"
   },
-  "maintainers": [
-    {
+  "maintainers": [{
       "name": "Kevin Mårtensson",
       "email": "kevinmartensson@gmail.com",
       "url": "github.com/kevva"
@@ -47,14 +46,14 @@
   ],
   "dependencies": {
     "bin-build": "^3.0.0",
-    "bin-wrapper": "^3.0.2",
+    "bin-wrapper": "^4.0.0",
     "logalot": "^2.1.0"
   },
   "devDependencies": {
     "ava": "*",
     "bin-check": "^4.1.0",
     "compare-size": "^3.0.0",
-    "execa": "^0.10.0",
+    "execa": "^0.11.0",
     "tempy": "^0.2.1",
     "xo": "*"
   }
